@@ -579,3 +579,4 @@ if __name__ == "__main__":
     filename, width = "test-svg/Python3-powered_hello-world.svg", 2000
     # filename, width = "test-svg/Frog_(2546)_-_The_Noun_Project.svg", 2000
     one_svg_to_desmos_merge(filename, width)
+C:\Users\USER\Downloads\5e151e74-9a83-405c-a030-bdb9daac12ad.svg
